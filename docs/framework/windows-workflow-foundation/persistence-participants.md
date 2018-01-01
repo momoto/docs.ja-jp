@@ -63,7 +63,7 @@ ms.lasthandoff: 12/02/2017
   
 -   単一ノード シナリオで、当該インスタンスがあるポイントで中止され、別のホスト ID を持つ新しい永続化プロバイダー インスタンスが作成されます。  
   
- ロックのタイムアウト値の既定値は 5 分です。呼び出したときに、別のタイムアウト値を指定できます <xref:System.ServiceModel.Persistence.PersistenceProvider.Load%2A>。  
+ ロックのタイムアウト値の既定値は 5 分です。<xref:System.ServiceModel.Persistence.PersistenceProvider.Load%2A> の呼び出し時に、別のタイムアウト値を指定できます。  
   
 ## <a name="in-this-section"></a>このセクションの内容  
   
